@@ -5,5 +5,5 @@ import (
 )
 
 func main(){
-	fmt.Println("Hello there, Performing Effective")
+	fmt.Println("Hello there, Performing not Effective go")
 }
