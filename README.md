@@ -22,7 +22,7 @@
   - `go list -m -versions <module>` lists all known versions of a module.
 
 - **Code Formatting**:
-  - `go fmt` formats Go source code.
+  - `go fmt` formats Go source code and beautify it.
 
 - **Environment**:
   - `go env` prints Go environment information.
